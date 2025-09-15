@@ -1,3 +1,8 @@
 /build*
 .vscode
 .cache
+
+# Compiled envpp11 examples and tests
+test_envpp11
+example_envpp11
+test_comprehensive
